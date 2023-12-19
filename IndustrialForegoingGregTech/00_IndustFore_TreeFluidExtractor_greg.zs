@@ -13,6 +13,6 @@ print("START: Industrial Foregoing : Tree Fluid Extractor : Add ");
     */
     
     //add rubber trees as a better place for latex
-        Extractor.add(<gregtech:rubber_log>, <liquid:latex> * 5);
+        Extractor.add(<gregtech:rubber_log>, <liquid:latex> * 4);
 
 print("END: Industrial Foregoing : Tree Fluid Extractor : Add ");
