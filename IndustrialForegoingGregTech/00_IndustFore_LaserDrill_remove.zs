@@ -3,7 +3,7 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 
-import mods.industrialforegoing.Extractor;
+import mods.industrialforegoing.LaserDrill;
 
 print("START: Industrial Foregoing : Laser Drill : Remove ");
     /*
