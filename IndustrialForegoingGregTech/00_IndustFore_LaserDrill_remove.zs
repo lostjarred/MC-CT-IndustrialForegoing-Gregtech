@@ -26,7 +26,8 @@ print("START: Industrial Foregoing : Laser Drill : Remove ");
             LaserDrill.remove(<minecraft:redstone_ore>);   
         //emerald
             LaserDrill.remove(<minecraft:emerald_ore>);   
-        //nether quartz    
+        //nether quartz
+            LaserDrill.remove(<minecraft:quartz_ore>);    
     }
     
     remove_ores();
