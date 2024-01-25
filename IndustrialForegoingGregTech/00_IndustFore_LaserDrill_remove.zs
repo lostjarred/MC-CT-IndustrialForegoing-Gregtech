@@ -19,6 +19,7 @@ print("START: Industrial Foregoing : Laser Drill : Remove ");
         //coal
             LaserDrill.remove(<minecraft:coal_ore>);
         //lapis
+            LaserDrill.remove(<minecraft:lapis_ore>);
         //diamond
         //redstone
         //nether quartz    
