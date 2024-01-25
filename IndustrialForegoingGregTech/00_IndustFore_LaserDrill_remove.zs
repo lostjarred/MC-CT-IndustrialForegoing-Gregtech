@@ -13,7 +13,14 @@ print("START: Industrial Foregoing : Laser Drill : Remove ");
     */
     function remove_ores() {
         //gold ore
-        LaserDrill.remove(<minecraft:gold_ore>);    
+            LaserDrill.remove(<minecraft:gold_ore>);
+        //iron
+            LaserDrill.remove(<minecraft:iron_ore>);
+        //coal
+        //lapis
+        //diamond
+        //redstone
+        //nether quartz    
     }
     
     remove_ores();
